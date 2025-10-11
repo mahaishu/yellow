@@ -18,8 +18,8 @@
 # Database
 Here,we used Mysql DB 
 sql dump file:
-- /src/main/resources/db_backup.sql
-- db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
-- > mysql -u <user_name> -p accounts < db_backup.sql
+- https://github.com/mahaishu/yellow/releases
+- https://github.com/mahaishu/yellow/releases file is a mysql dump https://github.com/mahaishu/yellow/releases have to import this dump to mysql db server
+- > mysql -u <user_name> -p accounts < https://github.com/mahaishu/yellow/releases
 
 
